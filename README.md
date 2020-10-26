@@ -1,3 +1,4 @@
+***
 ## Stream Twitter clone
 
 This is a simple Twitter clone app built with [Stream](http://getstream.io)'s API. It shows you how you can use [GetStream.io](https://getstream.io/ "GetStream.io") to build a site similar to Twitter.
